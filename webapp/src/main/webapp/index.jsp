@@ -1,4 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
+<h1> deploying war file to tomcat server </h1>
+<h2> clone, setup and deploy using jenkins </h2>
 
 
